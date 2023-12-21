@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_star_rate_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_notes_list.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_add_notes.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_add_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-hdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-hdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-hdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-hdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-mdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-mdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_dashboard_logo.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\dashboard_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-anydpi-v26_app_logo.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-anydpi-v26\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_my_gradient.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\my_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.career.app-merged_res-38:/layout_fragment_profile.xml.flat",
+        "source": "com.example.career.app-main-40:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_rouned_corner.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\rouned_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_push_pin_logo.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\push_pin_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_home_logo.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\home_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_app_logo_foreground.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\app_logo_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_login_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_circle_corner.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\circle_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_activity_notes_view.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_notes_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_person_logo.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\person_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_launcher_background.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xxxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xxxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_item_notes.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\item_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-mdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-mdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-anydpi-v26_app_logo_round.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-anydpi-v26\\app_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\musta\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\fragment_profile.xml"
+    }
+]

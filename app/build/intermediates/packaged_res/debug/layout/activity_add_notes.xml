@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/course_layout.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerVertical="true"
+    android:padding="16dp">
+    <Spinner
+        android:id="@+id/spinnerEducationLevel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Notes"
+        android:textAllCaps="false"
+        android:layout_below="@id/spinnerEducationLevel"
+        android:id="@+id/course_head_title"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/course_head_title"
+        android:hint="Enter Subject Name"
+        android:id="@+id/subject_name"/>
+    <EditText
+        android:id="@+id/editTextTopicName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/subject_name"
+        android:hint="Topic Name"/>
+
+    <EditText
+        android:id="@+id/editTextTopicDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/editTextTopicName"
+        android:hint="Topic Description"/>
+
+    <Button
+        android:id="@+id/addPDFButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextTopicDescription"
+        android:layout_marginTop="8dp"
+        android:text="Select PDF"/>
+    <ProgressBar
+        android:id="@+id/progressbarPDF"
+        android:layout_below="@id/addPDFButton"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="7dp"
+        android:layout_centerHorizontal="true"
+        android:text="Add Course"
+        android:layout_below="@id/progressbarPDF"
+        android:id="@+id/add_course_btn"/>
+
+</RelativeLayout>
