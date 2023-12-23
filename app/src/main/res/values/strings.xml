@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">eLib</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">Logout</string>
+
+    <string name="open">open Navigation Drawer</string>
+    <string name="close">close Navigation Drawer</string>
+    <string name="CSE">Computer Science</string>
+    <string name="hns">H&amp;S </string>
+
+</resources>

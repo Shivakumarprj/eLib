@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="14dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/my_gradient"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/branch_group1"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/cse_branch"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="20dp"
+            android:paddingTop="13dp"
+            android:paddingBottom="13dp"
+            android:textSize="40sp"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:text="CSE"
+            android:background="@drawable/rectangular_back"
+            />
+        <Button
+            android:id="@+id/ece_branch"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textAllCaps="false"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"
+            android:paddingTop="13dp"
+            android:paddingBottom="13dp"
+            android:textSize="40sp"
+            android:layout_weight="1"
+            android:text="ECE"
+            android:background="@drawable/rectangular_back"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/branch_group2"
+        android:layout_weight="1"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/hns_branch"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textAllCaps="false"
+            android:paddingTop="13dp"
+            android:paddingBottom="13dp"
+            android:layout_marginEnd="10dp"
+            android:textSize="40sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:text="@string/hns"
+            android:background="@drawable/rectangular_back" />
+        <Button
+            android:id="@+id/civil_branch"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textAllCaps="false"
+            android:textSize="40sp"
+            android:paddingTop="13dp"
+            android:paddingBottom="13dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:text="CIVIL"
+            android:background="@drawable/rectangular_back"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

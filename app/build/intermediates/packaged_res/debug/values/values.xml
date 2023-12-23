@@ -4,12 +4,13 @@
     <color name="black">#FF000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#E411DA</color>
-    <color name="colorPrimaryDark">#F32213</color>
+    <color name="colorPrimaryDark">#6F7ADD</color>
     <color name="colorSecondary">#C718D3</color>
     <color name="white">#FFFFFFFF</color>
     <drawable name="ic_launcher_background"/>
     <drawable name="ic_launcher_foreground"/>
-    <string name="app_name">career</string>
+    <string name="CSE">Computer Science</string>
+    <string name="app_name">eLib</string>
     <string name="click_to_login">Click to login</string>
     <string name="click_to_register">click to register</string>
     <string name="close">close Navigation Drawer</string>
@@ -20,6 +21,7 @@
     <string name="google_app_id" translatable="false">1:363532923291:android:3a3eb7ddd1892c3378b13e</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIYzxTxrtRcHYjMe1eNcmP3Im3pU0a9mM</string>
     <string name="google_storage_bucket" translatable="false">elib-babf2.appspot.com</string>
+    <string name="hns">H&amp;S </string>
     <string name="login">Login</string>
     <string name="logout">Logout</string>
     <string name="open">open Navigation Drawer</string>

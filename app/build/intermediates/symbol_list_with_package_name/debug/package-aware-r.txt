@@ -2978,11 +2978,6 @@ drawable app_logo_foreground
 drawable avd_hide_password
 drawable avd_show_password
 drawable baseline_account_circle_24
-drawable baseline_home_24
-drawable baseline_image_24
-drawable baseline_login_24
-drawable baseline_share_24
-drawable baseline_star_rate_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2991,6 +2986,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_background
 drawable circle_corner
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
@@ -3011,7 +3007,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable dashboard_logo
+drawable cse_logo
 drawable default_scroll_handle_bottom
 drawable default_scroll_handle_left
 drawable default_scroll_handle_right
@@ -3038,7 +3034,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
-drawable launcher_background
+drawable input_text_background
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3113,7 +3109,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable person_logo
-drawable push_pin_logo
+drawable rectangular_back
 drawable rouned_corner
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -3123,7 +3119,6 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
-id List_View
 id META
 id NO_DEBUG
 id SHIFT
@@ -3133,7 +3128,6 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
-id about
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3197,8 +3191,6 @@ id add_course_btn
 id addcourse
 id adjust_height
 id adjust_width
-id aids_branch
-id aiml_branch
 id alertTitle
 id aligned
 id all
@@ -3227,6 +3219,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id branch_group1
+id branch_group2
 id browser_actions_header_text
 id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
@@ -3253,6 +3247,7 @@ id checkbox
 id checked
 id chronometer
 id circle_center
+id civil_branch
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3313,6 +3308,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id ece_branch
 id edge
 id editTextTopicDescription
 id editTextTopicName
@@ -3340,7 +3336,6 @@ id fitXY
 id fixed
 id flip
 id floating
-id font
 id forever
 id fragment_container
 id fragment_container_view_tag
@@ -3357,6 +3352,7 @@ id grouping
 id groups
 id header_title
 id hideable
+id hns_branch
 id home
 id homeAsUp
 id honorRequest
@@ -3512,7 +3508,6 @@ id progress_horizontal
 id progressbar
 id progressbarPDF
 id radio
-id rateus
 id ratio
 id rectangles
 id recyclerView
@@ -3535,6 +3530,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchView
 id search_badge
 id search_bar
 id search_button
@@ -3545,10 +3541,10 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id select_branch_title
 id select_dialog_listview
 id selected
 id selection_type
-id settings
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3568,7 +3564,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
-id spinnerEducationLevel
+id spinnerSelectBranch
 id spline
 id split_action_bar
 id spread
@@ -3625,7 +3621,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id theme
 id time
 id title
 id titleDividerNoCustom
@@ -3788,7 +3783,6 @@ layout activity_main
 layout activity_notes_list
 layout activity_notes_view
 layout activity_register
-layout activity_settings
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -3807,7 +3801,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_dashboard
+layout fragment_home
 layout fragment_profile
 layout item_notes
 layout m3_alert_dialog
@@ -3881,13 +3875,13 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu bottom_menu
-menu main_menu
 mipmap app_logo
 mipmap app_logo_round
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw firebase_common_keep
+string CSE
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3966,6 +3960,7 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
+string hns
 string icon_content_description
 string item_view_role_description
 string login

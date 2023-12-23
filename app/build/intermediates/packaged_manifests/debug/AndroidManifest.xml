@@ -60,9 +60,6 @@
             android:name="com.example.career.MainActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.career.settings"
-            android:exported="false" />
-        <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"
             android:exported="true"

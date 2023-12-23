@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
+import android.widget.SearchView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
@@ -22,10 +23,14 @@ public final class ActivityNotesListBinding implements ViewBinding {
   @NonNull
   public final RecyclerView recyclerView;
 
+  @NonNull
+  public final SearchView searchView;
+
   private ActivityNotesListBinding(@NonNull RelativeLayout rootView,
-      @NonNull RecyclerView recyclerView) {
+      @NonNull RecyclerView recyclerView, @NonNull SearchView searchView) {
     this.rootView = rootView;
     this.recyclerView = recyclerView;
+    this.searchView = searchView;
   }
 
   @Override
@@ -61,7 +66,13 @@ public final class ActivityNotesListBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityNotesListBinding((RelativeLayout) rootView, recyclerView);
+      id = R.id.searchView;
+      SearchView searchView = ViewBindings.findChildViewById(rootView, id);
+      if (searchView == null) {
+        break missingId;
+      }
+
+      return new ActivityNotesListBinding((RelativeLayout) rootView, recyclerView, searchView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
