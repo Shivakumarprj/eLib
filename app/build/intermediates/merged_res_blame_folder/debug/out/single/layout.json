@@ -1,15 +1,11 @@
 [
     {
-        "merged": "com.example.career.app-mergeDebugResources-37:/layout/activity_add_notes.xml",
-        "source": "com.example.career.app-main-40:/layout/activity_add_notes.xml"
+        "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\fragment_profile.xml"
     },
     {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\item_notes.xml",
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\item_notes.xml"
-    },
-    {
-        "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\fragment_profile.xml"
     },
     {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\activity_main.xml",
@@ -24,16 +20,20 @@
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\activity_notes_view.xml",
-        "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_notes_view.xml"
-    },
-    {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\activity_notes_view.xml",
+        "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_notes_view.xml"
+    },
+    {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\activity_login.xml",
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.career.app-mergeDebugResources-37:/layout/activity_notes_list.xml",
+        "source": "com.example.career.app-main-40:/layout/activity_notes_list.xml"
     },
     {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-mergeDebugResources-37:\\layout\\activity_add_notes.xml",

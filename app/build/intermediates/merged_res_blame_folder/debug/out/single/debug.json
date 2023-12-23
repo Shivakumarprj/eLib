@@ -64,10 +64,6 @@
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.career.app-merged_res-38:/layout_activity_add_notes.xml.flat",
-        "source": "com.example.career.app-main-40:/layout/activity_add_notes.xml"
-    },
-    {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\drawable_circle_corner.xml.flat",
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\drawable\\circle_corner.xml"
     },
@@ -98,6 +94,10 @@
     {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.career.app-merged_res-38:/layout_activity_notes_list.xml.flat",
+        "source": "com.example.career.app-main-40:/layout/activity_notes_list.xml"
     },
     {
         "merged": "C:\\Users\\v7345\\.gradle\\daemon\\8.0\\com.example.career.app-merged_res-38:\\mipmap-hdpi_app_logo.webp.flat",

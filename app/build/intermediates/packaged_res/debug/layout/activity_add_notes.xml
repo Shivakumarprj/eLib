@@ -24,7 +24,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Notes"
+        android:text="Notes Information"
         android:textSize="25sp"
         android:textColor="@color/black"
         android:textAllCaps="false"
