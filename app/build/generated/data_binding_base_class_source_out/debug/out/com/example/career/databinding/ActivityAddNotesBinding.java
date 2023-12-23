@@ -42,7 +42,10 @@ public final class ActivityAddNotesBinding implements ViewBinding {
   public final ProgressBar progressbarPDF;
 
   @NonNull
-  public final Spinner spinnerEducationLevel;
+  public final TextView selectBranchTitle;
+
+  @NonNull
+  public final Spinner spinnerSelectBranch;
 
   @NonNull
   public final EditText subjectName;
@@ -50,8 +53,8 @@ public final class ActivityAddNotesBinding implements ViewBinding {
   private ActivityAddNotesBinding(@NonNull RelativeLayout rootView, @NonNull Button addCourseBtn,
       @NonNull Button addPDFButton, @NonNull TextView courseHeadTitle,
       @NonNull EditText editTextTopicDescription, @NonNull EditText editTextTopicName,
-      @NonNull ProgressBar progressbarPDF, @NonNull Spinner spinnerEducationLevel,
-      @NonNull EditText subjectName) {
+      @NonNull ProgressBar progressbarPDF, @NonNull TextView selectBranchTitle,
+      @NonNull Spinner spinnerSelectBranch, @NonNull EditText subjectName) {
     this.rootView = rootView;
     this.addCourseBtn = addCourseBtn;
     this.addPDFButton = addPDFButton;
@@ -59,7 +62,8 @@ public final class ActivityAddNotesBinding implements ViewBinding {
     this.editTextTopicDescription = editTextTopicDescription;
     this.editTextTopicName = editTextTopicName;
     this.progressbarPDF = progressbarPDF;
-    this.spinnerEducationLevel = spinnerEducationLevel;
+    this.selectBranchTitle = selectBranchTitle;
+    this.spinnerSelectBranch = spinnerSelectBranch;
     this.subjectName = subjectName;
   }
 
@@ -126,9 +130,15 @@ public final class ActivityAddNotesBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.spinnerEducationLevel;
-      Spinner spinnerEducationLevel = ViewBindings.findChildViewById(rootView, id);
-      if (spinnerEducationLevel == null) {
+      id = R.id.select_branch_title;
+      TextView selectBranchTitle = ViewBindings.findChildViewById(rootView, id);
+      if (selectBranchTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.spinnerSelectBranch;
+      Spinner spinnerSelectBranch = ViewBindings.findChildViewById(rootView, id);
+      if (spinnerSelectBranch == null) {
         break missingId;
       }
 
@@ -140,7 +150,7 @@ public final class ActivityAddNotesBinding implements ViewBinding {
 
       return new ActivityAddNotesBinding((RelativeLayout) rootView, addCourseBtn, addPDFButton,
           courseHeadTitle, editTextTopicDescription, editTextTopicName, progressbarPDF,
-          spinnerEducationLevel, subjectName);
+          selectBranchTitle, spinnerSelectBranch, subjectName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

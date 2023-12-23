@@ -11,7 +11,8 @@
         android:layout_centerHorizontal="true"
         android:gravity="center_horizontal"
         android:layout_marginTop="10dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
+        android:background="@drawable/rectangular_back"
         android:textSize="30sp"
         android:id="@+id/content_title"
         android:text="Topic Name"/>
